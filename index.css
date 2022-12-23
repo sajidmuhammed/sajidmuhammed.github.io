@@ -1,0 +1,234 @@
+.header1{
+    width: 100%;
+    height: 63px;
+    background-color:rgb(19, 26, 34);
+}
+.header2{
+    width: 100%;
+    height: 43px;
+    background-color:rgb(55, 71, 90);
+}
+body{
+    margin: 0;
+}
+.amzimage{
+    width: 10%;
+    height: 60px;
+    float: left;
+}
+.amzicon{
+    width: 90px;
+    height: 40px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.mapicontext{
+    width: 5%;
+    height: 60px;
+    float: left;
+
+}
+.text1{
+    color: white;
+}
+.search{
+    width:54% ;
+    height: 60px;
+    float: left;
+}
+.dropdown{
+    width: 60px;
+    height: 50px;
+    margin-top: 7px;
+    background-color: rgb(255, 255, 255);
+    float: left;
+}
+.searchbar{
+    width: 82%;
+    height: 45px;
+    margin-top: 7px;
+    float: left;
+}
+.searchiconc{
+    width: 7%;
+    height: 50px;
+    background-color: #febd69;
+    margin-top: 7px;
+    float: left;
+    
+}
+.dropdown2{
+    width: 4%;
+    height: 50px;
+    float: left;
+    margin-top: 7px;
+}
+.flagpic{
+    width: 17px;
+    height: 17px;
+    margin-top: 16px;
+    float: left;
+}
+.dropdown21{
+    width: 17px;
+    height: 17px;
+    margin-top: 16px;
+    float: left;
+    
+}
+.Account{
+    width: 10%;
+    height: 60px;
+    float: left;
+    color: white;
+    cursor: pointer;
+}
+.returnOrders{
+    width: 7%;
+    height: 60px;
+    float: left;
+    color: white;
+    margin-left: 10px;
+    cursor: pointer;
+
+}
+.cart{
+    width: 8%;
+    height: 60px;
+    float: left;
+}
+.cartimage{
+    width: 50px;
+    height: 40px;
+    float: left;
+    margin-top: 16px;
+}
+.carttext{
+    margin-top: 35px;
+    color: #ffff;
+}
+.container{
+    width: 100%;
+    height: 300px;
+    background-image: url('bg.png');
+    background-size: cover;
+    padding-top: 270px;
+}
+.introtext{
+    width: 90%;
+    height: 40px;
+    background-color: #ffff;
+    margin-left: 70px;
+}
+.books{
+    width: 22%;
+    height: 500px;
+    background: ghostwhite;
+    float: left;
+    margin-top: 40px;
+    margin-left: 32px;
+
+}
+
+.gifts{
+    width: 22%;
+    height: 500px;
+    float: left;
+    background: ghostwhite;
+    margin-top: 40px;
+    margin-left: 30px;
+
+}
+.box1{
+    width: 40%;
+    height: 150px;
+    float: left;
+    margin-left: 18px;
+    margin-top: 40px;
+}
+.textfeature{
+    padding-top: 137px;
+    padding-left: 30px;
+}
+.box2{
+    width: 90%;
+    height: 342px;
+    margin-left: 14px;
+    margin-top: 61px;
+}
+.a{
+    text-decoration: none;
+    padding-left: 95px;
+}
+.horizontal-div{
+    width: 95%;
+    height: 315px;
+    background-color: ghostwhite;
+    float: left;
+    margin-left: 30px;
+}
+.box3{
+    width: 15%;
+    height: 206px;
+    margin-top: 17px;
+    margin-left: 17px;
+    background-size: cover;
+    float: left;
+
+}
+.horizontal-div2{
+    width: 95%;
+    height: 500px;
+    background-color: ghostwhite;
+    float: left;
+    margin-top: 30px;
+    margin-left: 27px;
+}
+.first-footer{
+    width: 100%;
+    height: 40px;
+    float: left;
+    background-color:#333 ;
+}
+.mid-footer{
+    width: 100%;
+    height: 500px;
+    background-color:rgb(55, 71, 90) ;
+    float: left;
+}
+.text-footer{
+    width: 30%;
+    height: 440px;
+    color: white;
+    float: left;
+    padding-left: 41px;
+    margin-top: 56px;
+    cursor: pointer;
+}
+.humbergimage{
+    width: 20px;
+    height: 20px;
+    float: left;
+    margin-top: 10px;
+    cursor: pointer;
+    list-style: none;
+    margin-left: 12px;
+}
+.stylelist{
+    list-style: none;
+    color: white;
+    float: left;
+    margin-top: -17px;
+    margin-left: 80px;
+    cursor: pointer;
+
+
+}
+
+
+
+
+
+
+
+
